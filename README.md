@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ajayjoseph-creator/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1848-sum-of-unique-elements](https://github.com/ajayjoseph-creator/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ajayjoseph-creator/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3723-sum-of-good-numbers](https://github.com/ajayjoseph-creator/leetcode/tree/master/3723-sum-of-good-numbers) |
 ## Binary Search
 |  |
 | ------- |
