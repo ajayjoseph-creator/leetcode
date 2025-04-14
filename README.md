@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ajayjoseph-creator/leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/ajayjoseph-creator/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ajayjoseph-creator/leetcode/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ajayjoseph-creator/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ajayjoseph-creator/leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/ajayjoseph-creator/leetcode/tree/master/0242-valid-anagram) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/ajayjoseph-creator/leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ajayjoseph-creator/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ajayjoseph-creator/leetcode/tree/master/0013-roman-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ajayjoseph-creator/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/ajayjoseph-creator/leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1965-sum-of-digits-in-base-k](https://github.com/ajayjoseph-creator/leetcode/tree/master/1965-sum-of-digits-in-base-k) |
