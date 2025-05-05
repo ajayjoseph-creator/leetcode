@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/ajayjoseph-creator/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ajayjoseph-creator/leetcode/tree/master/0242-valid-anagram) |
+| [0958-sort-array-by-parity-ii](https://github.com/ajayjoseph-creator/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ajayjoseph-creator/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ajayjoseph-creator/leetcode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ajayjoseph-creator/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0958-sort-array-by-parity-ii](https://github.com/ajayjoseph-creator/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ajayjoseph-creator/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1848-sum-of-unique-elements](https://github.com/ajayjoseph-creator/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ajayjoseph-creator/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ajayjoseph-creator/leetcode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/ajayjoseph-creator/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ajayjoseph-creator/leetcode/tree/master/0344-reverse-string) |
+| [0958-sort-array-by-parity-ii](https://github.com/ajayjoseph-creator/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 ## Queue
 |  |
 | ------- |
