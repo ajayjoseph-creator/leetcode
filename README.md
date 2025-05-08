@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ajayjoseph-creator/leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/ajayjoseph-creator/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ajayjoseph-creator/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ajayjoseph-creator/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ajayjoseph-creator/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ajayjoseph-creator/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/ajayjoseph-creator/leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/ajayjoseph-creator/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ajayjoseph-creator/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ajayjoseph-creator/leetcode/tree/master/0268-missing-number) |
 | [0958-sort-array-by-parity-ii](https://github.com/ajayjoseph-creator/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 ## Sliding Window
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ajayjoseph-creator/leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/ajayjoseph-creator/leetcode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/ajayjoseph-creator/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ajayjoseph-creator/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ajayjoseph-creator/leetcode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ajayjoseph-creator/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/ajayjoseph-creator/leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -49,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ajayjoseph-creator/leetcode/tree/master/0268-missing-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ajayjoseph-creator/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |
@@ -61,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/ajayjoseph-creator/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ajayjoseph-creator/leetcode/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/ajayjoseph-creator/leetcode/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ajayjoseph-creator/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/ajayjoseph-creator/leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1965-sum-of-digits-in-base-k](https://github.com/ajayjoseph-creator/leetcode/tree/master/1965-sum-of-digits-in-base-k) |
@@ -76,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ajayjoseph-creator/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ajayjoseph-creator/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
