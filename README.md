@@ -148,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ajayjoseph-creator/leetcode/tree/master/0292-nim-game) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ajayjoseph-creator/leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ajayjoseph-creator/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
