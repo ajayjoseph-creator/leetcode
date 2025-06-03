@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ajayjoseph-creator/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ajayjoseph-creator/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ajayjoseph-creator/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ajayjoseph-creator/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/ajayjoseph-creator/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ajayjoseph-creator/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/ajayjoseph-creator/leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ajayjoseph-creator/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ajayjoseph-creator/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ajayjoseph-creator/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ajayjoseph-creator/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/ajayjoseph-creator/leetcode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/ajayjoseph-creator/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [3321-type-of-triangle](https://github.com/ajayjoseph-creator/leetcode/tree/master/3321-type-of-triangle) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ajayjoseph-creator/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ajayjoseph-creator/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ajayjoseph-creator/leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/ajayjoseph-creator/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ajayjoseph-creator/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0948-sort-an-array](https://github.com/ajayjoseph-creator/leetcode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/ajayjoseph-creator/leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ajayjoseph-creator/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ajayjoseph-creator/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ajayjoseph-creator/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |
@@ -86,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ajayjoseph-creator/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/ajayjoseph-creator/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ajayjoseph-creator/leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/ajayjoseph-creator/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0958-sort-array-by-parity-ii](https://github.com/ajayjoseph-creator/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 ## Queue
 |  |
