@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ajayjoseph-creator/leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/ajayjoseph-creator/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ajayjoseph-creator/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ajayjoseph-creator/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ajayjoseph-creator/leetcode/tree/master/0268-missing-number) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ajayjoseph-creator/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ajayjoseph-creator/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ajayjoseph-creator/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ajayjoseph-creator/leetcode/tree/master/0268-missing-number) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/ajayjoseph-creator/leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/ajayjoseph-creator/leetcode/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/ajayjoseph-creator/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ajayjoseph-creator/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ajayjoseph-creator/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ajayjoseph-creator/leetcode/tree/master/0283-move-zeroes) |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ajayjoseph-creator/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/ajayjoseph-creator/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1848-sum-of-unique-elements](https://github.com/ajayjoseph-creator/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ajayjoseph-creator/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -103,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ajayjoseph-creator/leetcode/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/ajayjoseph-creator/leetcode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
