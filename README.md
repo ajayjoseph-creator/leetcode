@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ajayjoseph-creator/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/ajayjoseph-creator/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ajayjoseph-creator/leetcode/tree/master/0415-add-strings) |
+| [0520-detect-capital](https://github.com/ajayjoseph-creator/leetcode/tree/master/0520-detect-capital) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/ajayjoseph-creator/leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ajayjoseph-creator/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/ajayjoseph-creator/leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
