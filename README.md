@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/ajayjoseph-creator/leetcode/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ajayjoseph-creator/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3723-sum-of-good-numbers](https://github.com/ajayjoseph-creator/leetcode/tree/master/3723-sum-of-good-numbers) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ajayjoseph-creator/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1965-sum-of-digits-in-base-k](https://github.com/ajayjoseph-creator/leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [3321-type-of-triangle](https://github.com/ajayjoseph-creator/leetcode/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ajayjoseph-creator/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ajayjoseph-creator/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
