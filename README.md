@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ajayjoseph-creator/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ajayjoseph-creator/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ajayjoseph-creator/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0561-array-partition](https://github.com/ajayjoseph-creator/leetcode/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/ajayjoseph-creator/leetcode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/ajayjoseph-creator/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [3321-type-of-triangle](https://github.com/ajayjoseph-creator/leetcode/tree/master/3321-type-of-triangle) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ajayjoseph-creator/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ajayjoseph-creator/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ajayjoseph-creator/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0561-array-partition](https://github.com/ajayjoseph-creator/leetcode/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/ajayjoseph-creator/leetcode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/ajayjoseph-creator/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ajayjoseph-creator/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/ajayjoseph-creator/leetcode/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/ajayjoseph-creator/leetcode/tree/master/0948-sort-an-array) |
 ## Tree
 |  |
@@ -174,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ajayjoseph-creator/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/ajayjoseph-creator/leetcode/tree/master/0206-reverse-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/ajayjoseph-creator/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
