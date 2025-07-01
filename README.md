@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/ajayjoseph-creator/leetcode/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/ajayjoseph-creator/leetcode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/ajayjoseph-creator/leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [1137-height-checker](https://github.com/ajayjoseph-creator/leetcode/tree/master/1137-height-checker) |
 | [3321-type-of-triangle](https://github.com/ajayjoseph-creator/leetcode/tree/master/3321-type-of-triangle) |
 ## Sliding Window
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/ajayjoseph-creator/leetcode/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/ajayjoseph-creator/leetcode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/ajayjoseph-creator/leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [1137-height-checker](https://github.com/ajayjoseph-creator/leetcode/tree/master/1137-height-checker) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ajayjoseph-creator/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1848-sum-of-unique-elements](https://github.com/ajayjoseph-creator/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ajayjoseph-creator/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/ajayjoseph-creator/leetcode/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/ajayjoseph-creator/leetcode/tree/master/0948-sort-an-array) |
+| [1137-height-checker](https://github.com/ajayjoseph-creator/leetcode/tree/master/1137-height-checker) |
 ## Tree
 |  |
 | ------- |
