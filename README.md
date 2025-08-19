@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ajayjoseph-creator/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/ajayjoseph-creator/leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1965-sum-of-digits-in-base-k](https://github.com/ajayjoseph-creator/leetcode/tree/master/1965-sum-of-digits-in-base-k) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/ajayjoseph-creator/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/ajayjoseph-creator/leetcode/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ajayjoseph-creator/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ajayjoseph-creator/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
