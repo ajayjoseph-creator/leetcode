@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ajayjoseph-creator/leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/ajayjoseph-creator/leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/ajayjoseph-creator/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/ajayjoseph-creator/leetcode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/ajayjoseph-creator/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ajayjoseph-creator/leetcode/tree/master/0217-contains-duplicate) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ajayjoseph-creator/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/ajayjoseph-creator/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ajayjoseph-creator/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ajayjoseph-creator/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
