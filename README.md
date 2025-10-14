@@ -191,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/ajayjoseph-creator/leetcode/tree/master/0561-array-partition) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/ajayjoseph-creator/leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
