@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ajayjoseph-creator/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ajayjoseph-creator/leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/ajayjoseph-creator/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ajayjoseph-creator/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/ajayjoseph-creator/leetcode/tree/master/0066-plus-one) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ajayjoseph-creator/leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/ajayjoseph-creator/leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/ajayjoseph-creator/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/ajayjoseph-creator/leetcode/tree/master/0283-move-zeroes) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ajayjoseph-creator/leetcode/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/ajayjoseph-creator/leetcode/tree/master/0561-array-partition) |
 ## Database
 |  |
